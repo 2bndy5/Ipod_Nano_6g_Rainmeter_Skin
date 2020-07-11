@@ -16,6 +16,9 @@ Ipod Nano 6g
 
 This is the home for developing Ipod Nano 6g. A suite of skins that imitate the iPod Nano 6th generation using Rainmeter.
 
+.. image:: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/9d354760-79b7-44eb-9a4c-5fc831468200/d5vbx00-13e0f71a-7c47-444b-ac61-71ca81452195.png/v1/fill/w_1192,h_670,q_70,strp/ipod_nano_6g_v2_8_by_2bndy5_d5vbx00-pre.jpg
+    :target: https://www.deviantart.com/2bndy5/art/Ipod-Nano-6g-V2-8-354954960
+
 Rainmeter required
 ##################
 
