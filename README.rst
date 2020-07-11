@@ -19,7 +19,7 @@ This is the home for developing Ipod Nano 6g. A suite of skins that imitate the 
 Rainmeter required
 ##################
 
-The minimum required version of Rainmeter is 4.3, but the `latest stable release <https://www.rainmeter.net>`_ is recommended.
+The minimum required version of Rainmeter is 3.1, but the `latest stable release <https://www.rainmeter.net>`_ is recommended.
 
 Package Installer
 #################
